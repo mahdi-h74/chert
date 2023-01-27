@@ -5,8 +5,3 @@ javad
 ali
 nilofar
 mohsen
-samad
-rasoul
-mozhdeh
-naz
-farhad
