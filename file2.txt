@@ -2,9 +2,3 @@ i am file2
 description
 
 bug fix
-
-something
-
-anything
-
-symbol

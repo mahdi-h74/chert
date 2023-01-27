@@ -1,6 +1,2 @@
 i am file3
 description
-
-anything
-
-symbol
