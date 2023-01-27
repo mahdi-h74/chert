@@ -6,3 +6,5 @@ bug fix
 something
 
 anything
+
+symbol
