@@ -1,7 +1,6 @@
 mamd
 hasan
 saba
-javad 
-ali
-nilofar
-mohsen
+raha
+amin
+javid
